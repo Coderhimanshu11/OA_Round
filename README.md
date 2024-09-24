@@ -7,7 +7,7 @@ Features
 Technologies Used
 •	Java 21
 •	Spring Boot
-•	Spring MVC
+•	Spring MVCz
 •	Spring Data JPA
 •	MySQL (as the database)
 •	Maven (for dependency management)
